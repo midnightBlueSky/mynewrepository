@@ -1,4 +1,4 @@
-NewFile Uploaded Directly to Github
+NewFile Uploaded Direly to Github
 
-- Edit by local machine
-
+- Edit by (random shit by second edit) local machine
+- Second edit by local machine 
